@@ -10,4 +10,7 @@
 - [ ] NAVER serch-advisor
 
 ### 0.4.0
-- [ ] [SEO NAVER](https://searchadvisor.naver.com/console/verify?site=https%3A%2F%2Fpapercrane55123.github.io#)
+- [ ] [SEO NAVER](https://searchadvisor.naver.com/tools/sitecheck#)
+
+### 0.4.1
+- [ ] [SEO NAVER](https://searchadvisor.naver.com/tools/sitecheck)
