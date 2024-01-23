@@ -22,4 +22,5 @@
 ### 0.4.3
 - [ ] [SEO NAVER](https://searchadvisor.naver.com/tools/sitecheck)
 
-### 0.4.4
+### 0.5.0
+- [ ] firebase & deploy dev STG
