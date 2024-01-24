@@ -1,5 +1,6 @@
 header{
-
+    font-family: 'Noto Sans KR', sans-serif;
+    font-weight: 600;
     width: 1000px;
     height: 140px;
     margin: 0 auto;
@@ -10,14 +11,23 @@ header{
 }
 h3{
 	color : green;
+    font-family: 'Noto Sans KR', sans-serif;
+    font-weight: 600;
 }
+h2{
+    font-family: 'Noto Sans KR', sans-serif;
+    font-weight: 600;
+}
+/*
 p{
 	font-family: 맑은 고딕;
 }
+*/
 li p{
 	color : black;
 	font-size: 90%;
     font-family: 'Noto Sans KR', sans-serif;
+    
 }
 
 footer{
