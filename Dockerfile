@@ -6,4 +6,3 @@ RUN apt install -y nginx
 COPY . /var/www/html/
 
 CMD ["nginx", "-g", "daemon off;"]
-
