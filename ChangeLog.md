@@ -28,3 +28,6 @@
 
 ### 0.6.0
 - [ ] html dev 
+
+### 240215.3
+- [ ] dockerfile copy
