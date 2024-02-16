@@ -1,0 +1,4 @@
+
+* * * * * sh /home/wsl/code/papercrane55123.github.io/pull.sh >> sudo /var/log/pull.log
+# new crontab file is missing newline before EOF, can't install.
+
