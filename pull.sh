@@ -7,4 +7,3 @@ cd /var/www/html
 git pull
 
 echo "<--end pull"
-
