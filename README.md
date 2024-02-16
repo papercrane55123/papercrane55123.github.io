@@ -1,5 +1,3 @@
-123123
-
 ## title 
 ![image](https://github.com/papercrane55123/papercrane55123.github.io/assets/150432433/aa48c13c-d6b6-4ff4-bd80-da59c0ae748c)
 
@@ -49,6 +47,8 @@ $ sudo docker pull minicrane/blog-nginx:0.2.0
 <h3>3. Google Firebase</h3>
 서버 없이 웹을 개발하여 배포하고자 사용했다.
 
+
+# Linux의 cron을 이용하여 action 따라하기
 
 
 ## 감사 - 디자인템플릿 공여자에게
