@@ -1,9 +1,9 @@
 #!/bin/bash
 
-echo "start pull-->" >> sudo /var/log/pull.log
+echo "start pull-->"
 date "+%Y-%m-%d %H:%M:%S"
 
-cd /home/wsl/code/papercrane55123.github.io
+cd /var/www/html
 git pull
 
 echo "<--end pull"
