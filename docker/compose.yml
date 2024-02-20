@@ -34,7 +34,7 @@ services:
     expose:
       - "80"
     environment:
-      - VIRTUAL_HOST=aws.google.com
+      - VIRTUAL_HOST=aws.google.com, google.aws.com, www.mini.com
       - VIRTUL_PORT=80
 
 
@@ -54,5 +54,5 @@ services:
     expose:
       - "80"
     environment:
-      - VIRTUAL_HOST=google.aws.com
+      - VIRTUAL_HOST=google.aws.com, aws.google.com
       - VIRTUL_PORT=80
