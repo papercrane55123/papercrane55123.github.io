@@ -23,13 +23,13 @@ services:
     image: minicrane/blog-a:0.1.0 
     deploy:
       mode: replicated
-      replicas: 10 # https://docs.docker.com/compose/compose-file/deploy/#replicas  복제 개수
+      replicas: 20 # https://docs.docker.com/compose/compose-file/deploy/#replicas  복제 개수
       resources: # https://docs.docker.com/compose/compose-file/compose-file-v3/#resources
         limits:
           cpus: '0.10'
           memory: 70M
         reservations:
-          cpus: '0.05'
+          cpus: '0.01'
           memory: 10M 
     expose:
       - "80"
