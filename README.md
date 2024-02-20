@@ -51,6 +51,8 @@ $ sudo docker pull minicrane/blog-nginx:0.2.0
 # Linux의 cron을 이용하여 action 따라하기
 
 
+# docker compose 사용하여 AUTO LB 적용하기
+
 ## 감사 - 디자인템플릿 공여자에게
 감사합니다.
 
