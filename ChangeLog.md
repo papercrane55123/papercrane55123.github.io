@@ -36,4 +36,4 @@
 - [ ] container git
 
 ### 240220.1
-- [ ] manual lb
+- [ ] manual lb.

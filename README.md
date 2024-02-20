@@ -48,11 +48,14 @@ $ sudo docker pull minicrane/blog-nginx:0.2.0
 서버 없이 웹을 개발하여 배포하고자 사용했다.
 
 
-# Linux의 cron을 이용하여 action 따라하기
+### Linux의 cron을 이용하여 action 따라하기
+https://blog.naver.com/mini_crane_/223357561381
 
+### docker compose 사용하여 AUTO LB 적용하기, TPS 높이기 
+https://blog.naver.com/mini_crane_/223358794282
 
-# docker compose 사용하여 AUTO LB 적용하기
+### docker compose 따라하기
+https://blog.naver.com/mini_crane_/223359367696
 
 ## 감사 - 디자인템플릿 공여자에게
 감사합니다.
-
